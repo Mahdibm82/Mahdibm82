@@ -7,6 +7,8 @@
 
 - 🤝 I’m looking for help in **learning PHP**
 
+- 💬 **don't ask me anything**
+
 - 📫 How to reach me **mahdi.0502.bm@gmail.com**
 
 - ⚡ Fun fact **i think i am a very insensitive person**
@@ -16,6 +18,7 @@
 <a href="https://linkedin.com/in/mahdi ataey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahdi ataey" height="30" width="40" /></a>
 <a href="https://fb.com/mohammad mahdi atai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohammad mahdi atai" height="30" width="40" /></a>
 <a href="https://instagram.com/mahdi.ataeyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahdi.ataeyy" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@mahdiatae" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@mahdiatae" height="30" width="40" /></a>
 <a href="https://discord.gg/mahdi03381" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mahdi03381" height="30" width="40" /></a>
 </p>
 
