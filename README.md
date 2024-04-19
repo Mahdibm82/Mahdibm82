@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mahdi.0502.bm@gmail.com**
 
-- ⚡ Fun fact **i think i am a very insensitive person**
+- ⚡ Fun fact **be to rabti nadare :)**
 
 ## 🌐 Socials:
 
