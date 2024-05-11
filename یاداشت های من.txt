@@ -1,0 +1,9 @@
+&nbsp;
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+//کد اسکریپت فونت اووسام//
+
+       	                <a href="#"><i class="fab fa-linkedin"></i></a>
+            <a href="#"><i class="fab fa-instagram"></i></a>
+            <a href="#"><i class="fab fa-twitter"></i></a>
+//لینک های سوشیال مدیا ها//
