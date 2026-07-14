@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahdi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working in **TNP company**
+- 🔭 I’m currently working in **freelancer**
 
 - 🌱 I’m currently learning **web design**
 
